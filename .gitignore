@@ -217,7 +217,7 @@ dbt_internal_packages/
 package-lock.yml
 logs/
 
-/airstats
-
 
 set-env.ps1
+.user.yml
+airstats/.user.yml
